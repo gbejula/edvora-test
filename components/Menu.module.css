@@ -1,0 +1,14 @@
+.menu {
+  display: flex;
+}
+
+.menu ul {
+  list-style: none;
+  display: flex;
+  margin: -12px 5px;
+  padding: 0 10%;
+}
+
+.menu li {
+  padding-right: 35px;
+}
